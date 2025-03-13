@@ -1,0 +1,51 @@
+Department,Employee,Salary,Experience,City
+Marketing,Emp_1,53483,1,New York
+Sales,Emp_2,78555,8,Austin
+Finance,Emp_3,47159,3,Austin
+Sales,Emp_4,110077,3,San Francisco
+Sales,Emp_5,65920,1,New York
+IT,Emp_6,97121,11,Chicago
+Finance,Emp_7,99479,5,Chicago
+Finance,Emp_8,119475,10,New York
+Finance,Emp_9,49457,7,Chicago
+Sales,Emp_10,96557,10,Chicago
+Marketing,Emp_11,107189,9,New York
+Finance,Emp_12,108953,12,Austin
+Sales,Emp_13,82995,7,New York
+IT,Emp_14,70757,9,Austin
+Marketing,Emp_15,39692,8,Chicago
+IT,Emp_16,75758,12,Chicago
+Marketing,Emp_17,102409,2,Chicago
+Sales,Emp_18,101211,1,San Francisco
+HR,Emp_19,95697,7,Austin
+Marketing,Emp_20,67065,7,San Francisco
+IT,Emp_21,62606,14,San Francisco
+Sales,Emp_22,41534,8,New York
+Marketing,Emp_23,70397,5,San Francisco
+HR,Emp_24,31016,3,New York
+HR,Emp_25,119789,12,New York
+Finance,Emp_26,85591,8,San Francisco
+Finance,Emp_27,119812,6,Austin
+IT,Emp_28,53247,11,Austin
+Marketing,Emp_29,54300,3,Austin
+Marketing,Emp_30,104065,1,Austin
+Finance,Emp_31,112798,3,Austin
+Marketing,Emp_32,39268,5,San Francisco
+Marketing,Emp_33,116807,14,San Francisco
+HR,Emp_34,42185,3,Chicago
+Finance,Emp_35,93704,1,Austin
+Sales,Emp_36,116779,5,San Francisco
+Finance,Emp_37,69099,10,Chicago
+Sales,Emp_38,38571,7,Austin
+HR,Emp_39,68044,14,New York
+IT,Emp_40,81214,7,Chicago
+Marketing,Emp_41,91228,11,San Francisco
+HR,Emp_42,78984,9,New York
+Marketing,Emp_43,70774,10,New York
+IT,Emp_44,32568,10,New York
+IT,Emp_45,92592,12,Chicago
+HR,Emp_46,97563,13,San Francisco
+IT,Emp_47,32695,3,New York
+Sales,Emp_48,78190,7,Austin
+IT,Emp_49,35258,1,New York
+Marketing,Emp_50,117538,4,New York
